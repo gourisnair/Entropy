@@ -1,0 +1,2 @@
+Input till new line is encountered
+scanf("%[^\n]s" &str);
