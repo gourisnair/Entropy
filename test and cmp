@@ -1,0 +1,8 @@
+Difference between cmp and test in assembly language
+
+c: arithmetic                                         t: logical
+c: performs a subtraction and discards the result     t: performs a bit wise AND and discards
+c: sets a flag                                        t: doesn't set a flag and comtents of the flag will be undefined
+
+
+cmp eax, 0 almost same as test eax, eax
