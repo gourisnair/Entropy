@@ -1,0 +1,3 @@
+Little Endian: Last byte of the multibyte data type is stored first. Vice versa for Big Endian. 
+Bi-endian: If it can be read in both the ways.
+Named from Gullivers Travels, where there are two groups of people who argues on the side from which an egg should be opened. Hence both is of same priority. None is better than other.

@@ -1,0 +1,5 @@
+CISC: Complex Instruction Set Architecture -> single instruction can be executed to perform many low level instructions.
+
+Backward Compatible: If a hardware or a software is able to work on its older version interface.
+
+Little Endian: Last byte of the multibyte data type is stored first. Vice versa for Big Endian. 
